@@ -1,0 +1,4 @@
+C:\Users\melen\OneDrive\Escritorio\proyecto\AdministracionPeliculas\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.AssemblyReference.cache
+C:\Users\melen\OneDrive\Escritorio\proyecto\AdministracionPeliculas\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\Users\melen\OneDrive\Escritorio\proyecto\AdministracionPeliculas\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\melen\OneDrive\Escritorio\proyecto\AdministracionPeliculas\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
